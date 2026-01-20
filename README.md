@@ -15,7 +15,7 @@ Everything fits together using 5 M3 Bolts and heatset inserts. 4 for the case, o
 
 It has 3 separate printed pieces. The angle, the base where the PCB sits, and the top cover. it also has 2 acrylic plates. One to cover the electronics, the other to hold the switches
 
-<img src=assets/cad.png alt="Schematic" width="500"/>
+<img src=assets/cad.png alt="Schematic" width="400"/>
 
 Made in Fusion360. Nifty
 
