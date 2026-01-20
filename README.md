@@ -28,7 +28,7 @@ The logo was created by me with photoshop and imported.
 <img src=assets/pcb.png alt="PCB" width="300"/>
 
 ## Firmware Overview
-This hackpad uses QMK firmware project as firmware!
+This hackpad uses [QMK](https://qmk.fm/) firmware project as firmware!
 
 ## BOM:
 This is what you need to make this hackpad.
