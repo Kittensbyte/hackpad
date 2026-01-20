@@ -25,6 +25,7 @@ There are 2 parts the bottom of the case and the top lid of the case.
 Below is my PCB made with KiCad. 
 The logo was created by me with photoshop and imported.
 <img src=assets/schematic.png alt="PCB" width="300"/>
+
 <img src=assets/pcb.png alt="PCB" width="300"/>
 
 ## Firmware Overview
