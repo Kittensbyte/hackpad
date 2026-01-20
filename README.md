@@ -43,5 +43,7 @@ This is what you need to make this hackpad.
 
 
 ## Extra info
-This was my first project and I have leaved so much and enjoy this so much.
+This was my first project and I have valued this so much.
 Special thanks to hackclub
+
+This site was built using [GitHub Pages](https://pages.github.com/).
