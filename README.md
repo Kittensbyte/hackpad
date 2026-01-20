@@ -47,6 +47,3 @@ This was my first project and I have valued this so much.
 
 Special thanks to [hackclub](https://https://hackclub.com/)
 
-[keyboard-layout-editor](https://www.keyboard-layout-editor.com/#/)
-
-[kbplate](https://kbplate.ai03.com/)
