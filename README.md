@@ -5,9 +5,13 @@ This is a my first project for hackclub and it is a 4-key macropad.
 
 ## Features:
 Customizable keypad with four mechanical buttons designed to automate complex commands.
+
 Custom case with a custom pcb that is small and powered by usb.
+
 3D printed case
+
 MX-Style switches 4 Keys (2 X 2)
+
 2 WS2812B RGB LEDs
 
 ## CAD Model:
