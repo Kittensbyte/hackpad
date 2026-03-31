@@ -18,16 +18,18 @@ MX-Style switches 6 Keys (2 X 3)
 The case fits together using 5 M3 Bolts
 There are 2 parts the bottom of the case and the top lid of the case.
 
-<img src=assets/cad.png alt="CAD" width="400"/>
+<img src=assets/assembled_case.png alt="CAD" width="400"/>
 (I made this with Fusion360)
 
 ## PCB
 Below is my PCB made with KiCad. 
 The logo was created by me with photoshop and imported.
 
-<img src=assets/schematic.png alt="PCB" width="300"/>
+<img src=assets/schematic-v2.0.png alt="PCB" width="300"/>
 
-<img src=assets/pcb.png alt="PCB" width="300"/>
+<img src=assets/pcb-Y-v2.0.png alt="PCB" width="300"/>
+
+<img src=assets/pcb3D-v2.0.png alt="PCB" width="300"/>
 
 ## Firmware Overview
 This hackpad uses the [QMK firmware project](https://qmk.fm/) as firmware!
