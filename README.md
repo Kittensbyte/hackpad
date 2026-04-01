@@ -27,7 +27,7 @@ The logo was created by me with photoshop and imported.
 
 <img src=assets/schematic-v3.0.png alt="PCB" width="300"/>
 
-<img src=assets/pcb-v3.0.png alt="PCB" width="300"/>
+<img src=assets/pcb-v4.0.png alt="PCB" width="300"/>
 
 <img src=assets/pcb3D-v3.0.png alt="PCB" width="300"/>
 
