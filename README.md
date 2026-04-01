@@ -25,11 +25,11 @@ There are 2 parts the bottom of the case and the top lid of the case.
 Below is my PCB made with KiCad. 
 The logo was created by me with photoshop and imported.
 
-<img src=assets/schematic-v2.0.png alt="PCB" width="300"/>
+<img src=assets/schematic-v3.0.png alt="PCB" width="300"/>
 
-<img src=assets/pcb-Y-v2.0.png alt="PCB" width="300"/>
+<img src=assets/pcb-v3.0.png alt="PCB" width="300"/>
 
-<img src=assets/pcb3D-v2.0.png alt="PCB" width="300"/>
+<img src=assets/pcb3D-v3.0.png alt="PCB" width="300"/>
 
 ## Firmware Overview
 This hackpad uses the [QMK firmware project](https://qmk.fm/) as firmware!
