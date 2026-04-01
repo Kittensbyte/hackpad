@@ -29,7 +29,7 @@ The logo was created by me with photoshop and imported.
 
 <img src=assets/pcb-v4.0.png alt="PCB" width="300"/>
 
-<img src=assets/pcb3D-v3.0.png alt="PCB" width="300"/>
+<img src=assets/pcb3D-v4.0.png alt="PCB" width="300"/>
 
 ## Firmware Overview
 This hackpad uses the [QMK firmware project](https://qmk.fm/) as firmware!
